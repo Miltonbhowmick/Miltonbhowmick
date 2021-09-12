@@ -2,9 +2,6 @@
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=Miltonbhowmick.Miltonbhowmick) -->
 
-<br />
-<br>
-
 hi, i'm Milton Chandro Bhowmick, a passionate self-taught full stack web developer from Bangladesh. My passion for programming becomes very true when i started competitive programming in my university life and i am always interested to implement ideas with efficient logic and egelant UI.
 
 <!-- I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source. -->
