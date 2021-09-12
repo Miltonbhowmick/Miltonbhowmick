@@ -28,3 +28,8 @@ hi, i'm Milton Chandro Bhowmick, a passionate self-taught full stack web develop
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
+<h4>Connect with me:</h4>
+<a href="mailto:miltonbhowmick7@gmail.com"><img src="https://img.icons8.com/dusk/40/000000/new-post.png"/></a>
+<a href="https://miltonbhowmick.github.io/"><img src="https://img.icons8.com/dusk/40/000000/internet--v1.png"/></a>
+<a href="https://twitter.com/milton_bhowmick"><img src="https://img.icons8.com/dusk/40/000000/twitter.png"/></a>
+<a href="https://www.linkedin.com/in/milton-chandro-bhowmick-52a288b6/"><img src="https://img.icons8.com/dusk/40/000000/linkedin.png"/></a>
