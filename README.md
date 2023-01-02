@@ -1,6 +1,6 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=Miltonbhowmick.Miltonbhowmick) -->
+![](https://visitor-badge.glitch.me/badge?page_id=Miltonbhowmick.Miltonbhowmick)
 
 hi, i'm Milton Chandro Bhowmick, a passionate self-taught full stack web developer from Bangladesh. My passion for programming becomes very true when i started competitive programming in my university life and i am always interested to implement ideas with efficient logic and egelant UI.
 
