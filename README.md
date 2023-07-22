@@ -13,7 +13,6 @@ Hi, i'm Milton Chandro Bhowmick, a passionate self-taught Software Engineer from
   <img alt="Js" src="https://img.shields.io/badge/JS-JavaScript-yellow?style=flat-square&logo=html5&logoColor=white"/>
   <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/>
   <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
