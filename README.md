@@ -7,11 +7,12 @@ Hi, i'm Milton Chandro Bhowmick, a passionate self-taught Software Engineer from
 - 💬 ask me about anything, i am happy to help;
 
 **Connect with me**
-<a href="mailto:miltonbhowmick7@gmail.com"><img src="https://img.icons8.com/dusk/40/000000/gmail.png"/></a>
-<a href="https://miltonbhowmick.github.io/"><img src="https://img.icons8.com/dusk/40/000000/stackoverflow.png"/></a>
-<!-- <a href="https://twitter.com/milton_bhowmick"><img src="https://img.icons8.com/dusk/40/000000/twitter.png"/></a> -->
-<a href="https://www.linkedin.com/in/milton-chandro-bhowmick-52a288b6/"><img src="https://img.icons8.com/dusk/40/000000/linkedin.png"/></a>
-
+<p>
+  <a href="mailto:miltonbhowmick7@gmail.com"><img src="https://img.icons8.com/dusk/40/000000/gmail.png"/></a>
+  <a href="https://miltonbhowmick.github.io/"><img src="https://img.icons8.com/dusk/40/000000/stackoverflow.png"/></a>
+  <!-- <a href="https://twitter.com/milton_bhowmick"><img src="https://img.icons8.com/dusk/40/000000/twitter.png"/></a> -->
+  <a href="https://www.linkedin.com/in/milton-chandro-bhowmick-52a288b6/"><img src="https://img.icons8.com/dusk/40/000000/linkedin.png"/></a>
+</p>
 **Programming Languages and tools:**  
 <p> 
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
