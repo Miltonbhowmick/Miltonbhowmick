@@ -26,9 +26,9 @@ Hi, i'm Milton Chandro Bhowmick, a passionate self-taught Software Engineer from
 
 
 <h4>Connect with me:</h4>
-<a href="mailto:miltonbhowmick7@gmail.com"><img src="https://img.icons8.com/dusk/40/000000/new-post.png"/></a>
-<a href="https://miltonbhowmick.github.io/"><img src="https://img.icons8.com/dusk/40/000000/internet--v1.png"/></a>
-<a href="https://twitter.com/milton_bhowmick"><img src="https://img.icons8.com/dusk/40/000000/twitter.png"/></a>
+<a href="mailto:miltonbhowmick7@gmail.com"><img src="https://img.icons8.com/dusk/40/000000/gmail.png"/></a>
+<a href="https://miltonbhowmick.github.io/"><img src="https://img.icons8.com/dusk/40/000000/stackoverflow.png"/></a>
+<!-- <a href="https://twitter.com/milton_bhowmick"><img src="https://img.icons8.com/dusk/40/000000/twitter.png"/></a> -->
 <a href="https://www.linkedin.com/in/milton-chandro-bhowmick-52a288b6/"><img src="https://img.icons8.com/dusk/40/000000/linkedin.png"/></a>
 
 <h4>Github Stats:</h4>
