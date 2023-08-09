@@ -9,7 +9,7 @@ Hi, i'm Milton Chandro Bhowmick, a passionate self-taught Software Engineer from
 **Connect with me**
 <p>
   <a href="mailto:miltonbhowmick7@gmail.com"><img src="https://img.icons8.com/dusk/40/000000/gmail.png"/></a>
-  <a href="https://miltonbhowmick.github.io/"><img src="https://img.icons8.com/dusk/40/000000/stackoverflow.png"/></a>
+  <a href="https://stackoverflow.com/users/6487553/miltonbhowmick"><img src="https://img.icons8.com/dusk/40/000000/stackoverflow.png"/></a>
   <!-- <a href="https://twitter.com/milton_bhowmick"><img src="https://img.icons8.com/dusk/40/000000/twitter.png"/></a> -->
   <a href="https://www.linkedin.com/in/milton-chandro-bhowmick-52a288b6/"><img src="https://img.icons8.com/dusk/40/000000/linkedin.png"/></a>
 </p>
