@@ -33,4 +33,4 @@ Hi, i'm Milton Chandro Bhowmick, a passionate self-taught Software Engineer from
 </p>
 <h4>Github Stats:</h4>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miltonbhowmick&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miltonbhowmick&theme=dark&show_icons=true)
