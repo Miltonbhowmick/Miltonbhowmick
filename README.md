@@ -2,7 +2,7 @@
 <!-- 
 ![](https://visitor-badge.glitch.me/badge?page_id=Miltonbhowmick.Miltonbhowmick) -->
 
-Hi, i'm Milton Chandro Bhowmick, a passionate self-taught Software Engineer from Bangladesh. Currently, i am working at https://vemate.com/ which is fully remote work. 
+Hi, i'm Milton Chandro Bhowmick, a passionate self-taught Software Engineer from Bangladesh. Currently, working at https://vemate.com/. 
   
 - 💬 ask me about anything, i am happy to help;
 
